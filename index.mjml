@@ -1,0 +1,212 @@
+<mjml>
+  <mj-head>
+    <mj-title>Stills</mj-title>
+    <mj-preview>Stills: Coming Soon!</mj-preview>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-text font-family="Helvetica, sans-serif" color="#000000" />
+
+      <mj-class name="content-bg" background-color="#D4D3CF" />
+      <mj-class name="body-text" align="center" font-size="12px" line-height="18px" padding="0 60px 30px 60px" />
+    </mj-attributes>
+
+    <mj-style>
+      .header-links {
+        color: #000000 !important;
+        text-decoration: none !important;
+      }
+
+      .stills-link {
+        color: #FFFFFF !important;
+      }
+
+      .footer-link {
+        color: #000000 !important;
+        text-decoration: none !important;
+      }
+
+      .footer-link:hover {
+        text-decoration: underline !important;
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#FFFFFF">
+    <!-- Start Of Email -->
+    <!-- Start Of Header Section -->
+    <mj-section background-color="#FFFFFF" padding="12px 0 12px 0">
+      <mj-group>
+        <mj-column>
+          <mj-text align="left" font-size="26px" font-weight="600" padding-left="22px">
+            <a href="https://www.stills.com" class="header-links">Stills</a>
+          </mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="right" font-size="11px" text-transform="uppercase" padding-right="22px" padding-top="5px">
+            <a href="https://www.stills.com" class="header-links">the new standard <br>in photo licensing
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Of Header Section -->
+    <!-- Start Of Coming Soon Section -->
+    <mj-section mj-class="content-bg">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/Qt7GBg0z/top-image.png" alt="collage of professional photos" />
+          <mj-text align="center" font-size="26px" font-weight="300" padding-top="25px">
+            Coming Soon:
+          </mj-text>
+          <mj-text align="center" font-size="26px" font-weight="300" padding="5px 0 10px 0">
+            Your Stills Invite
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Big news! Invites start going out <span style="font-style:italic">tomorrow.</span> We're thrilled for you
+            to finally experience the Stills difference for yourself. Keep your eyes on your inbox. and get ready to create the
+            best work of your career @withstills.
+          </mj-text>
+          <mj-image src="https://i.postimg.cc/Nfkt74Bq/divider.png" alt="section divider" width="35px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Of Coming Soon Section -->
+
+    <!-- Start Of Main Content Section-->
+    <mj-section mj-class="content-bg" padding="25px 0 0 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/cJ2G4kMY/vault.png" alt="screenshot of The Vault" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section mj-class="content-bg" padding="30px 0 25px 0">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+            The Vault
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Unlock the members-only Vault to access the most exclusive images in the Stills collection. Photos in
+            the Vault are held back for a limited time to ensure they dont get overused and that members get to them first.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="content-bg" padding="25px 0 40px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/XY20tYrs/moodboard.png" alt="moodboard preview" width="340px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+            Board
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Boards are a blank state for your best ideas. They're a highly customizable and collaborative tool for building beautiful
+            client pitches with photos you can actually license.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="content-bg" padding="25px 0 40px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/vmcdyw9b/photo-pages.png" alt="photo pages preview" width="333px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+            Photography Pages
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Explore the portfolios of our in-demand photographers, learn more about their backgrounds,
+            and commission them for exclusive work.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="content-bg" padding="25px 0 40px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/hPBgdwF1/filter.png" alt="filter pages preview" width="350px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+            Filters
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Filter by category, artist, composition, orientation, color palette, location, season, time of day, and more.
+            Refine your search by combining filters to find your images even faster.
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section mj-class="content-bg" padding="25px 0 25px 0">
+      <mj-group>
+        <mj-column>
+          <mj-image src="https://i.postimg.cc/QdN36TdB/market.png" alt="market page preview" width="333px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+            Market Freeze
+          </mj-text>
+          <mj-text mj-class="body-text">
+            Activate the Market Freeze feature to temporarily prevent others from using a photo after you've licensed
+            it. Once frozen, your image is exclusive to you for a limited time. (Permanent freeze availible with Enterprise plan.)
+          </mj-text>
+          <mj-image src="https://i.postimg.cc/Nfkt74Bq/divider.png" alt="section divider" width="35px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Of Main Content Section-->
+
+    <!-- Start Of Follow Section -->
+    <mj-wrapper mj-class="content-bg" padding="0px 20px 30px 20px">
+      <mj-section background-color="#000000" padding="40px 30px 40px 30px">
+        <mj-group>
+          <mj-column>
+            <mj-text align="center" color="#FFFFFF" font-size="22px">
+              24 hours to go.
+            </mj-text>
+            <mj-text align="center" color="#FFFFFF" font-size="22px" padding-top="2px">
+              Until then, stay connected.
+            </mj-text>
+            <mj-text align="center" color="#FFFFFF" font-size="12px" padding-top="15px">
+              Connect <a class="stills-link" href="https://www.stills.com>">@withstills</a> on Instagram for the latest launch news, collabs, giveaways,
+              photographer signings, and more.
+            </mj-text>
+            <mj-button href="https://www.stills.com" background-color="white" color="#000000" font-size="14px" text-transform="uppercase" border-radius="0px" inner-padding="8px 35px" padding="25px 0 0 0">
+              follow stills
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <!-- End Of Follow Section -->
+
+    <!-- Start Of Footer -->
+    <mj-wrapper mj-class="content-bg" padding="0">
+      <mj-section background-color="#000000" padding="30px 40px 30px 35px">
+        <mj-group>
+          <mj-column>
+            <mj-text align="center" color="#FFFFFF" font-size="12px">
+              Stills is a part of FM, a family of brands dedicated to empowering the creative.
+            </mj-text>
+            <mj-text align="center" color="#FFFFFF" font-size="12px" padding-top="5px">
+              &copy 2023 FM LLC.
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section mj-class="content-bg" padding="20px 0 40px 0">
+      <mj-group>
+        <mj-column>
+          <mj-text align="center" color="#000000" font-size="12px">
+            Stills | 9555 Harmon Road, Fort Worth TX
+          </mj-text>
+          <mj-text align="center" color="#000000" font-size="12px" padding-top="5px">
+            <a href="https://www.stills.com" class="footer-link">Unsubscribe or Manage Preferences</a>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <!-- End Of Footer-->
+    <!-- End Of Email -->
+  </mj-body>
+</mjml>
