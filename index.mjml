@@ -4,10 +4,10 @@
     <mj-preview>Stills: Coming Soon!</mj-preview>
     <mj-attributes>
       <mj-all padding="0" />
-      <mj-text font-family="Helvetica, sans-serif" color="#000000" />
+      <mj-text font-family="serif" color="#000000" />
 
       <mj-class name="content-bg" background-color="#D4D3CF" />
-      <mj-class name="body-text" align="center" font-size="12px" line-height="18px" padding="0 60px 30px 60px" />
+      <mj-class name="body-text" align="center" font-size="12px" font-weight="300" line-height="18px" padding="0 60px 30px 60px" />
     </mj-attributes>
 
     <mj-style>
@@ -54,16 +54,16 @@
       <mj-group>
         <mj-column>
           <mj-image src="https://i.postimg.cc/Qt7GBg0z/top-image.png" alt="collage of professional photos" />
-          <mj-text align="center" font-size="26px" font-weight="300" padding-top="25px">
+          <mj-text align="center" font-size="26px" font-weight="600" padding-top="25px">
             Coming Soon:
           </mj-text>
-          <mj-text align="center" font-size="26px" font-weight="300" padding="5px 0 10px 0">
+          <mj-text align="center" font-size="26px" font-weight="600" padding="5px 0 10px 0">
             Your Stills Invite
           </mj-text>
           <mj-text mj-class="body-text">
             Big news! Invites start going out <span style="font-style:italic">tomorrow.</span> We're thrilled for you
             to finally experience the Stills difference for yourself. Keep your eyes on your inbox. and get ready to create the
-            best work of your career @withstills.
+            best work of your career <a href="https://stills.com" class="header-links">@withstills.</a>
           </mj-text>
           <mj-image src="https://i.postimg.cc/Nfkt74Bq/divider.png" alt="section divider" width="35px" />
         </mj-column>
@@ -82,7 +82,7 @@
     <mj-section mj-class="content-bg" padding="30px 0 25px 0">
       <mj-group>
         <mj-column>
-          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+          <mj-text align="center" font-size="22px" font-weight="600" padding-bottom="10px">
             The Vault
           </mj-text>
           <mj-text mj-class="body-text">
@@ -96,9 +96,9 @@
     <mj-section mj-class="content-bg" padding="25px 0 40px 0">
       <mj-group>
         <mj-column>
-          <mj-image src="https://i.postimg.cc/XY20tYrs/moodboard.png" alt="moodboard preview" width="340px" padding="0 0 25px 0" />
-          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
-            Board
+          <mj-image src="https://i.postimg.cc/XY20tYrs/moodboard.png" alt="moodboard preview" width="520px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="600" padding-bottom="10px">
+            Boards
           </mj-text>
           <mj-text mj-class="body-text">
             Boards are a blank state for your best ideas. They're a highly customizable and collaborative tool for building beautiful
@@ -111,9 +111,9 @@
     <mj-section mj-class="content-bg" padding="25px 0 40px 0">
       <mj-group>
         <mj-column>
-          <mj-image src="https://i.postimg.cc/vmcdyw9b/photo-pages.png" alt="photo pages preview" width="333px" padding="0 0 25px 0" />
-          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
-            Photography Pages
+          <mj-image src="https://i.postimg.cc/vmcdyw9b/photo-pages.png" alt="photo pages preview" width="500px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="600" padding-bottom="10px">
+            Photographer Pages
           </mj-text>
           <mj-text mj-class="body-text">
             Explore the portfolios of our in-demand photographers, learn more about their backgrounds,
@@ -126,8 +126,8 @@
     <mj-section mj-class="content-bg" padding="25px 0 40px 0">
       <mj-group>
         <mj-column>
-          <mj-image src="https://i.postimg.cc/hPBgdwF1/filter.png" alt="filter pages preview" width="350px" padding="0 0 25px 0" />
-          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+          <mj-image src="https://i.postimg.cc/hPBgdwF1/filter.png" alt="filter pages preview" width="450px" padding="0 0 25px 0" />
+          <mj-text align="center" font-size="22px" font-weight="600" padding-bottom="10px">
             Filters
           </mj-text>
           <mj-text mj-class="body-text">
@@ -138,11 +138,11 @@
       </mj-group>
     </mj-section>
 
-    <mj-section mj-class="content-bg" padding="25px 0 25px 0">
+    <mj-section mj-class="content-bg" padding="20px 0 25px 0">
       <mj-group>
         <mj-column>
           <mj-image src="https://i.postimg.cc/QdN36TdB/market.png" alt="market page preview" width="333px" padding="0 0 25px 0" />
-          <mj-text align="center" font-size="22px" font-weight="300" padding-bottom="10px">
+          <mj-text align="center" font-size="22px" font-weight="600" padding-bottom="10px">
             Market Freeze
           </mj-text>
           <mj-text mj-class="body-text">
